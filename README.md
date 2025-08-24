@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Jairo D. Banaag
 
-<!--
-**jairobanaag/jairobanaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧾 About Me
 
-Here are some ideas to get you started:
+🎓 BS Information Technology Student at Laguna State Polytechnic University – San Pablo City Campus (LSPU SCC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 I have little knowledge in Python, and I’m willing to enhance it further
+
+
+🎯 Goal: To improve my coding skills and expand my knowledge in programming
+
+
+🎨 I have experience in UI/UX Design and I’m passionate about combining creativity with technology
+
+
+🛠 Skills
+• Languages: Python (basic), C# (basic)
+• Other Skills: UI/UX Design, Critical Thinking
+
+
+📌 Current Focus
+📖 Enhancing my knowledge in Python through practice and study
+🎨 Exploring more on UI/UX Design to develop creative and user-friendly solutions
+
+
+📫 Connect with Me Email: jairobanaag17@gmail.com
