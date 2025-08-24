@@ -21,6 +21,8 @@
 
 📌 Current Focus
 📖 Enhancing my knowledge in Python through practice and study
+
+
 🎨 Exploring more on UI/UX Design to develop creative and user-friendly solutions
 
 
